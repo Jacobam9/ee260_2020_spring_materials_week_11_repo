@@ -1,8 +1,8 @@
 ---
-title: 
-author:
-partner:
-date:
+title: HW Week 11
+author: Jacob Marutani
+partner: Khan N.
+date: 3/30/2020
 ---
 ## (5 pts)
 Capture the following system behavior as an HLSM. The system counts the number of events on a single-bit input B and always outputs that number unsigned on a 16-bit output C, which is initially 0. An event is a change from 0 to 1 or from 1 to 0. Assume the system count rolls over when the maximum value of C is reached.
